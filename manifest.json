@@ -2,7 +2,7 @@
   "name": "Kamenska-Knjiga",
   "short_name": "Kamenska-Knjiga",
   "start_url": "https://sbpa-1106.github.io/SB_P0_C0_R0/P0_C0_R0.html",
-  "display": "minimal-ui",
+  "display": "fullscreen",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
