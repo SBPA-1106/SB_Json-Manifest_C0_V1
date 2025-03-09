@@ -3,8 +3,8 @@
   "short_name": "Kamenska-Knjiga",
   "start_url": "https://sbpa-1106.github.io/SB_P0_C0_R0/P0_C0_R0.html",
   "display": "fullscreen",
-  "background_color": "#ff0000",
-  "theme_color": "#00ff00",
+  "background_color": "#000000",
+  "theme_color": "#000000",
   "icons": [
     {
       "src": "https://cdn.jsdelivr.net/gh/SBPA-1106/SB_Images_C0_G@main/Icon.ico",
